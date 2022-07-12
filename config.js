@@ -11,9 +11,9 @@
 const LanguageLocaleCode = "en";
 
 // PUBLIC VALUES
-const FiveMServerName = "My FiveM Server";
-const DiscordInviteLink = "https://discord.gg/fivem";
-const FiveMServerIP = "127.0.0.1";
+const FiveMServerName = "Prophecy Roleplay";
+const DiscordInviteLink = "https://discord.gg/JWu6eT3hwh";
+const FiveMServerIP = "51.81.81.95";
 
 // This spams the console, only enable for testing if needed
 const DebugLogs = false;
@@ -30,21 +30,21 @@ const DiscordBotToken = "CHANGE";
 const DiscordGuildId = "000000000000000000";
 
 // STAFF CHAT
-const EnableStaffChatForwarding = false;
-const DiscordStaffChannelId = "000000000000000000";
+const EnableStaffChatForwarding = true;
+const DiscordStaffChannelId = "996528695030325398";
 const AdditionalStaffChatRoleIds = [
     // "000000000000000",
 ];
 
 // WHITELISTING / ALLOWLISTING
 const EnableWhitelistChecking = true;
-const DiscordWhitelistRoleIds = "000000000000000000, 000000000000000000";
+const DiscordWhitelistRoleIds = "855258591962333208";
 
 // SLASH COMMANDS / DISCORD PERMISSIONS
 const EnableDiscordSlashCommands = true;
-const DiscordModRoleId = "000000000000000000";
-const DiscordAdminRoleId = "000000000000000000";
-const DiscordGodRoleId = "000000000000000000";
+const DiscordModRoleId = "855258592093536286";
+const DiscordAdminRoleId = "855258592093536288";
+const DiscordGodRoleId = "855258592093536291";
 
 // DISCORD BOT STATUS
 const EnableBotStatusMessages = true;
